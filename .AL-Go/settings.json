@@ -1,6 +1,8 @@
 {
-  "country": "us",
-  "appFolders": [],
+  "country": "au",
+  "appFolders": [
+    "Test App"
+  ],
   "testFolders": [],
   "bcptTestFolders": []
 }
