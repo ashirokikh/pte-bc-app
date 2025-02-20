@@ -1,4 +1,5 @@
 {
   "type": "PTE",
-  "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main"
+  "templateUrl": "https://github.com/ashirokikh/AL-Go@fix-error-message",
+  "templateSha": "3435da08376eedddb616e35eb3de89747dc2e821"
 }
